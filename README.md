@@ -20,4 +20,4 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src=	"https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src=	"https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-<img src=	"https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+<img src=	"https://img.shields.io/badge/NVIDIA-GTX1050 TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
