@@ -1,7 +1,7 @@
 - 👋 Hello I'm Enrico Marques
 - 👀 I'm learning how to make sites, APIs and bots for discord
 - 🌱 I’m currently learning  React, Typescript, and React Native
-- 💞️ I’m looking to collaborate on [Colégio Progresso](https://www.colegioprogresso.com.br) for Project [Tour Campinas](https://tourcampinas.com.br) , [Vatsim Brasil](https://vatsim.com.br/), [Airlines Airlines](https://airlinesairlines.ml/),  and [Projeto Nordeste Online](https://nordesteonline.ml/), [Radar Bot](https://radarbot.xyz)
+- 💞️ I’m looking to collaborate on [Colégio Progresso](https://www.colegioprogresso.com.br) for Project [Tour Campinas](https://tourcampinas.com.br) , [Vatsim Brasil](https://vatsim.com.br/), [Airlines Airlines](https://airlinesairlines.ml/), [Projeto Nordeste Online](https://nordesteonline.ml/) and [Radar Bot](https://radarbot.xyz)
 
 
 <!---
