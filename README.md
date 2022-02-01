@@ -1,7 +1,7 @@
 - 👋 Hello I'm Enrico Marques
 - 👀 I'm learning how to make sites and bots for discord
 - 🌱 I’m currently learning  React, Typescript, React Native
-- 💞️ I’m looking to collaborate on DMFS, Vatsim Brasil (https://vatsim.com.br/), Airlines Airlines (https://airlinesairlines.ml/),  and Projeto Nordeste Online (https://nordesteonline.ml/)
+- 💞️ I’m looking to collaborate on Colégio Progresso for Project [Tour Campinas](https://tourcampinas.com.br) , [Vatsim Brasil](https://vatsim.com.br/), [Airlines Airlines](https://airlinesairlines.ml/),  and [Projeto Nordeste Online](https://nordesteonline.ml/)
 
 
 <!---
