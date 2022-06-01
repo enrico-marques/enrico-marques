@@ -11,7 +11,7 @@
 
 ![Snake animation](https://github.com/Enrico1108/Enrico1108/blob/output/github-contribution-grid-snake.svg)
   
-  
+ <br>
 # Programming Languages and Frameworks
 
 - Typescript
