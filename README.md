@@ -10,10 +10,12 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Enrico GitHub stats](https://github-readme-stats.vercel.app/api?username=enrico1108&show_icons=true&theme=dracula)
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="">
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="">
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="">
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt=""><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="">
+
+# Programming Languages and Frameworks
+
+- Typescript
+- React
+- Next
+- Express
+- Prisma
+- Postgres 
