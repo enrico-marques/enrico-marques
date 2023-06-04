@@ -1,6 +1,6 @@
 - 👋 Hello I'm Enrico Marques
 - 👀 I'm learning how to make sites, APIs and bots for discord
-- 💞️ I’m looking to collaborate on [Colégio Progresso](https://www.colegioprogresso.com.br) for Project [Tour Campinas](https://tourcampinas.com.br) , [Vatsim Brasil](https://vatsim.com.br/) and [Radar Bot](https://radarbot.xyz)
+- 💞️ I’m looking to collaborate on [Radar Bot](https://radarbot.xyz)
 
 
   <div>
